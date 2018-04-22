@@ -3,3 +3,5 @@
 Clearfix - makes the photo match up with the paragraph/row/etc
 
 Libraries are tools for us to use. Frameworks provide us with a set of rules that we must follow.
+
+Before class: we can set things to apply before or after an element. If we don't, it applies to what is inside the element. Before affects the before content, after affects the content after our element. By using the before, we want the color to change before the transition starts. 
